@@ -21,7 +21,7 @@ I am showing an example of Setup Playbook for an **AWS Instance** whose tag is `
 
     - hosts: tag_Name_master
       roles:
-         - master
+         - K8s_master
 
 
 Author Information
